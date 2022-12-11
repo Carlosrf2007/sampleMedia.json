@@ -1,0 +1,14 @@
+{
+service:[
+                {
+                       title: "Video link",
+                       link: "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+                       key:""
+                },
+		{
+			title: "YouTube Link",
+			link: "GRJbYba4Q8s",
+            key: "AIzaSyA_UZjEgcoR-SkJUypUnqFEdN0ha-YUMEg"
+		}
+	]
+}
